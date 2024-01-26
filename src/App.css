@@ -1,0 +1,13 @@
+.App{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    grid-gap: 10px;
+}
+.nothing{
+    background-color: rgb(237, 219, 219);
+    border-radius: 10px;
+    padding: 10px;
+}
+.hi{
+    text-align: center;
+}
